@@ -1,9 +1,9 @@
 {
   "name": "my-project",
+ 
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "homepage": "https://rajupeddinti.github.io/my-project",
 
 
     "@radix-ui/react-accordion": "^1.2.12",
