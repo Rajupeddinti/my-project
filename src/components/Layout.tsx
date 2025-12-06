@@ -71,7 +71,7 @@ export default function Layout() {
                 alt="Nyra AI Logo"
                 className="w-8 h-8 rounded-lg object-contain"
               />
-              <span className="text-gray-900 font-medium text-lg">Nyra AI</span>
+              <span className="text-gray-900 font-medium text-lg" style={{textAlign:"center"}}>Nyra AI</span>
             </div>
             <Button
               variant="ghost"
